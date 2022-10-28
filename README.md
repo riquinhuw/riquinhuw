@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Api Rpg Game (ARG)](https://github.com/riquinhuw/api-rpg-game)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **JS or NodeJS**
 
